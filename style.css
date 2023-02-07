@@ -1,0 +1,110 @@
+body{
+    background-color: tomato;
+}
+#heading{
+    font-weight: bold;
+    color: white;
+    font-size: 55px;
+    border-radius: 20px;
+}
+hr{
+    width: 100%;
+}
+.subhead{
+    font-family: sans-serif;
+    color: white;
+}
+#profile{
+    float: left;
+    width: 25%;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+#summary{
+    float: left;
+    width: 75%;
+    height: 300px;
+    margin-top: 90px;
+    
+}
+#summary p{
+    font-size: 28px;
+    padding: 15px;
+    margin-left: 15px;
+}
+
+#skills{
+    float: left;
+    width: 25%;
+    font-size: 25px;
+    height: 350px;
+}
+
+.sub-page{
+    background-color: rgb(236, 119, 99)\;
+}
+
+#skills p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#education{
+    float: left;
+    width: 75%;
+    font-size: 25px;
+    height: 350px;
+}
+
+table, tr, td, th {
+    border: 1px solid;
+    border-collapse: collapse;
+    font-family: sans-serif;
+}
+td{
+    text-align: center;
+    height: 50px;
+}
+
+#hobbies{
+    float: left;
+    width: 25%;
+    height: 350px;
+    font-size: 25px;
+}
+
+#hobbies p{
+    font-size: 20px;
+}
+
+#certfications{
+    float: left;
+    width: 75%;
+    height: 350px;
+    font-size: 25px;
+}
+
+#certfications p{
+    font-size: 20px;
+}
+
+#footer{
+    width: 100%;
+}
+
+#footer i{
+    margin: 10px;
+    padding-bottom: 5px;
+}
+
+#footer a{
+    text-decoration: none;
+}
+
+
+.blackiconcolor {color:black;}
+
+meter{
+    text-align: left;
+}
